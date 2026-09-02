@@ -43,6 +43,110 @@ Challenge Duration: 30 Days
 Goal: Solve and push one pattern every day to GitHub.
 ---
 
+## Topics Covered
+
+This repository covers the following Java concepts through pattern-printing problems:
+
+* Nested Loops
+* `for` Loops
+* Conditional Statements
+* Stars (`*`)
+* Numbers
+* Alphabets
+* Spaces
+* Rows and Columns
+* Hollow Patterns
+* Pyramid Patterns
+* Diamond Patterns
+* Symmetrical Patterns
+* Pascal's Triangle
+* Binary Patterns
+* Concentric Patterns
+* Spiral Patterns
+
+---
+
+# Repository Structure
+
+```text
+Java_Pattern/
+│
+├── README.md
+│
+├── Easy/
+│   │
+│   ├── Pattern-01-Square-Star/
+│   │   ├── Pattern01.java
+│   │   └── README.md
+│   │
+│   ├── Pattern-02-Right-Triangle/
+│   │   ├── Pattern02.java
+│   │   └── README.md
+│   │
+│   ├── Pattern-03-Inverted-Right-Triangle/
+│   │   ├── Pattern03.java
+│   │   └── README.md
+│   │
+│   ├── Pattern-04-Number-Triangle/
+│   │
+│   ├── Pattern-05-Repeated-Row-Number/
+│   │
+│   ├── Pattern-06-Alphabet-Triangle/
+│   │
+│   ├── Pattern-07-Number-Square/
+│   │
+│   ├── Pattern-08-Reverse-Number-Triangle/
+│   │
+│   ├── Pattern-09-Repeated-Alphabet-Rows/
+│   │
+│   └── Pattern-10-Floyds-Triangle/
+│
+├── Intermediate/
+│   │
+│   ├── Pattern-11-Right-Aligned-Triangle/
+│   │
+│   ├── Pattern-12-Inverted-Right-Aligned/
+│   │
+│   ├── Pattern-13-Full-Pyramid/
+│   │
+│   ├── Pattern-14-Inverted-Full-Pyramid/
+│   │
+│   ├── Pattern-15-Diamond/
+│   │
+│   ├── Pattern-16-Hollow-Square/
+│   │
+│   ├── Pattern-17-Hollow-Triangle/
+│   │
+│   ├── Pattern-18-Butterfly/
+│   │
+│   ├── Pattern-19-Number-Pyramid/
+│   │
+│   └── Pattern-20-Hollow-Diamond/
+│
+└── High-Level/
+    │
+    ├── Pattern-21-Pascals-Triangle/
+    │
+    ├── Pattern-22-Hollow-Butterfly/
+    │
+    ├── Pattern-23-Sandglass/
+    │
+    ├── Pattern-24-Zig-Zag/
+    │
+    ├── Pattern-25-X-Pattern/
+    │
+    ├── Pattern-26-Hollow-Number-Pyramid/
+    │
+    ├── Pattern-27-Concentric-Square/
+    │
+    ├── Pattern-28-Binary-Triangle/
+    │
+    ├── Pattern-29-Character-Diamond/
+    │
+    └── Pattern-30-Spiral-Number-Square/
+```
+
+
 # Progress Tracker
 
 ### Easy
@@ -98,6 +202,7 @@ By the end of this challenge, I aim to:
 * Practice writing clean Java code
 * Analyze time and space complexity
 * Maintain a consistent GitHub contribution streak
+* Each pattern is maintained in a separate folder with its corresponding Java program and explanation.
 
 ---
 
