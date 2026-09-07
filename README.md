@@ -1,6 +1,6 @@
 # Java Pattern Printing
 
-A collection of **30 Java Pattern Printing Problems** solved as a **30-Day Challenge**.
+A collection of **30 Java Pattern Printing Problems** solved as a **30-Day Challenge**. 
 
 The main goal of this challenge is to improve **Java fundamentals, nested loops, conditional logic, pattern recognition, and problem-solving skills** by solving one pattern every day and mainly this challenge focuses of **problem-solving skills**.
 
@@ -32,13 +32,13 @@ Push to GitHub
 
 | Level              | Patterns | Difficulty  |
 | ------------------ | -------- | ----------- |
-| **Easy**           |     1–10 | Beginner    |
+| **Easy**           |    1–10  | Beginner    |
 | **Intermediate**   |    11–20 | Moderate    |
 | **High Level**     |    21–30 | Challenging |
 | Total              |    30    |   30 days   |
 
 
-Challenge Start: 02 September 2026
+Challenge Start: 07 September 2026
 Challenge Duration: 30 Days
 Goal: Solve and push one pattern every day to GitHub.
 ---
