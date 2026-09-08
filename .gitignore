@@ -1,6 +1,8 @@
 # IntelliJ IDEA
 .idea/
 out/
+Pattern01.class
+Pattern02.class
 
 # IntelliJ project file
 *.iml
