@@ -152,10 +152,10 @@ Java_Pattern/
 ### Easy
 
 * [✓] Pattern 01
-* [ ] Pattern 02
-* [ ] Pattern 03
-* [ ] Pattern 04
-* [ ] Pattern 05
+* [✓] Pattern 02
+* [✓] Pattern 03
+* [✓] Pattern 04
+* [✓] Pattern 05
 * [ ] Pattern 06
 * [ ] Pattern 07
 * [ ] Pattern 08
