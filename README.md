@@ -157,9 +157,9 @@ Java_Pattern/
 * [✓] Pattern 04
 * [✓] Pattern 05
 * [✓] Pattern 06
-* [ ] Pattern 07
-* [ ] Pattern 08
-* [ ] Pattern 09
+* [✓] Pattern 07
+* [✓] Pattern 08
+* [✓] Pattern 09
 * [ ] Pattern 10
 
 ### Intermediate
