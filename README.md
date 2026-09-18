@@ -165,7 +165,7 @@ Java_Pattern/
 ### Intermediate
 
 * [✓] Pattern 11
-* [ ] Pattern 12
+* [✓] Pattern 12
 * [ ] Pattern 13
 * [ ] Pattern 14
 * [ ] Pattern 15
