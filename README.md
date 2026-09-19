@@ -166,7 +166,7 @@ Java_Pattern/
 
 * [✓] Pattern 11
 * [✓] Pattern 12
-* [ ] Pattern 13
+* [✓] Pattern 13
 * [ ] Pattern 14
 * [ ] Pattern 15
 * [ ] Pattern 16
