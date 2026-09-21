@@ -108,5 +108,5 @@ See [`Pattern14.java`](./Pattern14.java)
 * [x] Pattern 10 - Floyd's Triangle
 * [x] Pattern 11 - Right-Aligned Star Triangle
 * [x] Pattern 12 - Inverted Right-Aligned Star Triangle
-* [x] Pattern 13 - [Pattern 13 Name]
+* [x] Pattern 13 - pyramid star pattern
 * [x] Pattern 14 - Inverted Centered Star Pyramid
