@@ -1,6 +1,8 @@
 # IntelliJ IDEA
 .idea/
 out/
+
+
 Pattern01.class
 Pattern02.class
 Pattern03.class
@@ -20,6 +22,7 @@ Pattern15.class
 Pattern16.class
 Pattern17.class
 Pattern18.class
+Pattern19.class
 
 
 # IntelliJ project file
