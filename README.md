@@ -173,7 +173,7 @@ Java_Pattern/
 * [✓] Pattern 17
 * [✓] Pattern 18
 * [✓] Pattern 19
-* [ ] Pattern 20
+* [✓] Pattern 20
 
 ### High Level
 
