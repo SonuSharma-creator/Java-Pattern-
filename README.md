@@ -177,7 +177,7 @@ Java_Pattern/
 
 ### High Level
 
-* [ ] Pattern 21
+* [✓] Pattern 21
 * [ ] Pattern 22
 * [ ] Pattern 23
 * [ ] Pattern 24
