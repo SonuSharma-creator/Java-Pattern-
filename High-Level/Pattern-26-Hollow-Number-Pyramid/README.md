@@ -59,7 +59,7 @@ Condition   → Determines number or space
 
 ## Java Solution
 
-See [`Pattern26.java`](https://chatgpt.com/c/Pattern26.java)
+See [`Pattern26.java`](./Pattern26.java)
 
 ## Complexity
 
