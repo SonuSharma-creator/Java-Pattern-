@@ -75,7 +75,7 @@ Calculated value → Determines the number to print
 
 ## Java Solution
 
-See [`Pattern24.java`](./Pattern24.java)
+See [`Pattern27.java`](./Pattern27.java)
 
 ## Complexity
 
