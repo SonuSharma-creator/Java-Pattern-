@@ -57,7 +57,7 @@ Condition   → Determines diagonal star positions
 
 ## Java Solution
 
-See [`Pattern25.java`](https://chatgpt.com/c/Pattern25.java)
+See [`Pattern25.java`](./Pattern25.java)
 
 ## Complexity
 
