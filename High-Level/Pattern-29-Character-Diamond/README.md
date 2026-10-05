@@ -73,7 +73,7 @@ Second loop → Controls characters
 
 ## Java Solution
 
-See [`Pattern29.java`](https://chatgpt.com/c/Pattern29.java)
+See [`Pattern29.java`](./Pattern29.java)
 
 ## Complexity
 
