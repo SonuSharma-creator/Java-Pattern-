@@ -186,7 +186,7 @@ Java_Pattern/
 * [✓] Pattern 27
 * [✓] Pattern 28
 * [✓] Pattern 29
-* [ ] Pattern 30
+* [✓] Pattern 30
 
 ---
 
