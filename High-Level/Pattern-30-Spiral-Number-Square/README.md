@@ -79,7 +79,7 @@ Boundary update → Moves the spiral inward
 
 ## Java Solution
 
-See [`Pattern30.java`](https://chatgpt.com/c/Pattern30.java)
+See [`Pattern30.java`](./Pattern30.java)
 
 ## Complexity
 
